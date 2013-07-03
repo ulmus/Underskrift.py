@@ -11,3 +11,8 @@ Dependencies
 ------------
 
 - Requests
+
+License
+-------
+
+MIT-License
